@@ -19,7 +19,7 @@
   "homepage": "https://github.com/LordScree/confqa#readme",
   "dependencies": {
     "check-for-updates": "^1.0.5",
-    "express": "^4.17.1"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "eslint": "^8.14.0"
